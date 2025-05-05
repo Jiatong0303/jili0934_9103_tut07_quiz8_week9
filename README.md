@@ -5,6 +5,7 @@ I am inspired by imaging techniques that combine bright primary colours, geometr
 1. Geometric shapes
 2. Bright primary colours
 3. Minimalist composition
+
 ![An image of a bauhaus poster](readme_image/bauhaus_poster.jpg)
 ###### [Retrieved from Pinterest](https://au.pinterest.com/pin/4855512094371380/)
 
@@ -12,5 +13,12 @@ I am inspired by imaging techniques that combine bright primary colours, geometr
 1. Grid-based layout
 2. Bright primary colours
 3. Repetitive graphic elements
-![An image of pac-man poster](readme_image/pac_man_poster.jpg)
+
+![An image of a pac-man poster](readme_image/pac_man_poster.jpg)
 ###### [Retrieved from Pinterest](https://au.pinterest.com/pin/785385622533868384/)
+
+### Part 2: Coding Technique Exploration
+###### [Happy coding: drawCity](https://happycoding.io/tutorials/p5js/creating-functions/city)
+The draw City function from happy coding could assist me in implementing the geometric shapes, bright primary colours and grid-based layout technique I selected for my part 1: Imaging Technique Inspirations. The draw City function uses coding techniques to build grid-based layout city patterns. By using functions such as draw City() and drawBlock(), I can repeatedly draw primary colour geometric shapes and blocks with a grid-based layout. The draw City function has a clear structure and it’s easy to reuse. This draw City function also provides a simple composition similar to the maze layout in Pac-Man and the visual style of Bauhaus.
+
+![A screenshot of drawCity](readme_image/drawCity.png)
